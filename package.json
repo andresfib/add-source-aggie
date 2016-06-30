@@ -1,0 +1,15 @@
+{
+  "name": "add-sources-aggie",
+  "version": "0.1.0",
+  "description": "Add sources to an aggie server using its API. Sources are read from a tab separated values file.",
+  "main": "addSources.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrés Moreno",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.72.0",
+    "underscore": "^1.8.3"
+  }
+}
